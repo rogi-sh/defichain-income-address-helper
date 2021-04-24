@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="defichain-income-address-helper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/defichain_income_address_helper_jar</output-path>
+    <root id="archive" name="defichain-income-address-helper.jar">
+      <element id="module-output" name="defichain-income-address-helper" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/json-simple-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
